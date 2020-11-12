@@ -3,8 +3,8 @@
 This is my project leading up to my Bachelor Thesis
 
 Description:
-all-data.csv is a dataset from this Kaggle challange: https://www.kaggle.com/ankurzing/sentiment-analysis-for-financial-news
-news_headlines_sentiment.csv is a dataset labeled by me. The news were scraped from finviz.com
+\nall-data.csv is a dataset from this Kaggle challange: https://www.kaggle.com/ankurzing/sentiment-analysis-for-financial-news
+\nnews_headlines_sentiment.csv is a dataset labeled by me. The news were scraped from finviz.com
 
 News_Webscraper:
 Scrapes general and specific news of companies from finviz.com
